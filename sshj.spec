@@ -1,3 +1,4 @@
+%{?_javapackages_macros:%_javapackages_macros}
 Name:          sshj
 Version:       0.8.1
 Release:       8%{?dist}
