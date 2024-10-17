@@ -4,7 +4,7 @@ Version:       0.8.1
 Release:       8%{?dist}
 Summary:       SSHv2 library for Java
 License:       ASL 2.0
-URL:           http://schmizz.net/sshj/
+URL:           https://schmizz.net/sshj/
 Source0:       https://github.com/shikhar/sshj/archive/v%{version}.tar.gz
 # Thanks to Michal Srb
 # Update bouncycastle to 1.50
